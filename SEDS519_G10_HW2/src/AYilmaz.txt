@@ -1,0 +1,6 @@
+MATH101; Monday; 10:00
+MAT501; Tuesday; 09:00
+MATH202; Tuesday; 14:00
+MATH501; Monday; 17:00
+MATH302; Thursday; 11:00
+MATH503; Friday; 13:00

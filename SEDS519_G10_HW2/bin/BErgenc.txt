@@ -1,0 +1,11 @@
+CENG351; Monday; 08:00
+CENG455; Tuesday; 11:00
+CENG656; Thursday; 10:00
+SEDS582; Wednesday; 14:00
+SEDS575; Wednesday; 13:00
+SEDS569; Wednesday; 09:00
+SEDS575; Wednesday; 08:00
+SEDS569; Friday; 15:00
+SEDS575; Friday; 16:00
+SEDS569; Friday; 17:00
+SEDS569; Friday; 12:00
